@@ -1,0 +1,3 @@
+.ipynb_checkpoints/
+bottleneck_features/DogVGG16Data.npz
+bottleneck_features/DogVGG19Data.npz
